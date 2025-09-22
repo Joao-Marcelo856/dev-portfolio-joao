@@ -1,19 +1,20 @@
-<h1 align="center"> 🤓☝️ Olá, eu sou João Marcelo!</h1>
+<h1 align="center">  ✨Olá, eu sou João Marcelo!✨</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dev-Front--end-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dev-Front--end-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dev-Back--end-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Code-Python-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-- 🌱 Atualmente estou aprendendo **[tecnologia/linguagem]**  
+- 🌱 Atualmente estou aprendendo **Back-End/Front-End**  
 - 💻 Interesse em **desenvolvimento web, mobile e inteligência artificial**  
 - 🎯 Objetivo: me tornar um desenvolvedor **full stack**  
-- ⚡ Curiosidade: Meu editor favorito é o VS Code com tema escuro.  
+- ⚡ Curiosidade: Meu editor favorito é o VS Code com tema escuro. 
 
 ---
 
@@ -28,15 +29,12 @@
 
 ---
 
-## 📊 Estatísticas
-<div align="center">
-  <a href="https://github.com/Joao-Marcelo856">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+
 
 ---
 
 ## 🌐 Onde me encontrar
-- 📧 Email: joao.m.oliveira23@aluno.senai.br  
+- 📧 Email: joao.m.oliveira23@aluno.senai.br
+- https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox  
 - 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-marcelo-monteiro-de-oliveira-52aaa235b/
