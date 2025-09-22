@@ -36,5 +36,4 @@
 
 ## 🌐 Onde me encontrar
 - 📧 Email: joao.m.oliveira23@aluno.senai.br
-- https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox  
 - 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-marcelo-monteiro-de-oliveira-52aaa235b/
